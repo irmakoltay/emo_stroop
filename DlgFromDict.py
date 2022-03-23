@@ -1,0 +1,2 @@
+class DlgFromDict:
+    pass
